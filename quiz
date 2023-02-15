@@ -6,6 +6,8 @@
 
 <style type = "text/css">
 
+<style>color = 'blue'</style> 
+
 li.one {list-style-type:upper-roman}
 
 li.two {list-style-type:upper-alpha}
@@ -22,13 +24,25 @@ li.three{list-style-type:decimal}
 
 <ol>
 
-<li class = "one"> breakfast</li>
+<li  = "one"> breakfast</li>
 
-<li class = "two"> lunch </li>
+<li  = "two"> lunch </li>
 
-<li class = "three"> dinner</li>
+<li  = "three"> dinner</li>
 
 </ol>
+
+<h3>cartoons</h3>
+
+<ul>
+
+<li> doraemon </li>
+
+<li> shinchan </li>
+
+<li> pokemon </li>
+
+</ul>
 
 </body>
 
