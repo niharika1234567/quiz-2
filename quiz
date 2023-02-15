@@ -18,15 +18,15 @@ li.three{list-style-type:decimal}
 
 <body>
 
-<h3>Engineering Colleges</h3>
+<h3>food</h3>
 
 <ol>
 
-<li class = "one"> RVU</li>
+<li class = "one"> breakfast</li>
 
-<li class = "two"> BMSCE </li>
+<li class = "two"> lunch </li>
 
-<li class = "three"> PESU</li>
+<li class = "three"> dinner</li>
 
 </ol>
 
